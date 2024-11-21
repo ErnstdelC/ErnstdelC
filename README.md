@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ErnstdelC
 - 👀 I’m interested in Economics 
 - 🌱 I’m currently learning R
-- - 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
